@@ -1,0 +1,8 @@
+house
+dog
+cat
+school
+car
+shop
+lesson
+gift
